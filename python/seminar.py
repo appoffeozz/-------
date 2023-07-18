@@ -143,3 +143,27 @@
 # print()    
     
 # print(max_days)
+
+# n = int(input('Введите трехзначное число: '))
+
+# if n > 99 and n < 1000:
+
+#     a = n % 10
+#     b = n // 10
+#     c = b % 10
+#     j = b // 10
+#     res = j + c + a 
+#     print(res)
+
+# else:
+    
+#     print('Это не трехзначное число! ')
+
+
+# if n > 99 and n < 1000:
+#     a = n % 10
+#     b = n // 10
+#     c = b % 10
+#     j = b // 10
+#     res = j + c + a
+# print(res)
