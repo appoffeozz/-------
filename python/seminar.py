@@ -172,5 +172,12 @@
 # res = n1 + n2 + n3
 # print (res)
 
+# ticket = int(input('введите: '))
 
-ghghf
+# first = ticket[:3]
+# second = ticket[3:]
+
+# first = int(first[0]) + int(first[1]) + int(first[2])
+# second = int(second[0]) + int(second[1]) + int(second[2])
+# print('Не'*(first != second) + 'счастливый')
+
