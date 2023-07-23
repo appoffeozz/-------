@@ -181,3 +181,58 @@
 # second = int(second[0]) + int(second[1]) + int(second[2])
 # print('Не'*(first != second) + 'счастливый')
 
+
+# number = input("введите: ")
+
+# count_dict = {}
+
+# for i in number:
+#     count_dict[i] = count_dict.get(i, 0) + 1
+#     print(f'{i}' + (f'_{count_dict[i] - 1}' if count_dict[i] > 1 else ''), end=' ')
+
+
+# Пользователь вводит текст(строка). 
+# Словом считается последовательность непробельных символов
+# # идущих подряд, 
+# # слова разделены одним или большим числом пробелов или 
+# # символами конца строки.Определите, сколько различных 
+# # слов содержится в этом тексте.
+
+
+# n = """She sells sea shells on the sea shore The shells
+# that she sells are sea shells I'm sure. So if she sells sea
+# shells on the sea shore I'm sure that the shells are sea
+# shore shells"""
+
+# # n = input("введите строку: ")
+# # n = n.lower()
+
+# # n = n.replace('.', ' ')
+# # print(n)
+
+# # n = list(n.split())
+# # n_set = set(n)
+
+
+# # print(n_set)
+# # print(len(n_set))
+
+
+
+# n = int(input())
+# max_number = n
+# while n != 0:
+#     n = int(input())
+#     if max_number < n:
+#      max_number = n
+# print(max_number)
+
+# n = int(input("введите: "))
+
+# max_number = n
+# while n > 0:
+#     n = int(input())
+#     if max_number < n:
+#         max_number = n
+# print(max_number)
+
